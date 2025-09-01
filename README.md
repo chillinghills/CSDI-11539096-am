@@ -3,7 +3,7 @@
 
 Project Environment:
 
-- VS Code (2017)
+- Visual Studio Code (2017)
 - Cmake (Version > 3.5)
 - msys2 (for Windows only)
 
