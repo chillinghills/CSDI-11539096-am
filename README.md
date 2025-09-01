@@ -17,4 +17,4 @@ References (especially for coding and testing):
 - https://github.com/retrio/gb-test-roms/blob/master/cgb_sound/cgb_sound.gb
 - https://github.com/mattcurrie/dmg-acid2
 
-For other details of project results, including testing, please check the report.
+For other details of project, including testing results, tables and figures, please check the report.
