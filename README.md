@@ -4,8 +4,8 @@
 Project Environment:
 
 - Visual Studio Code (2017)
-- Cmake (Version > 3.5)
-- msys2 (for Windows only)
+- CMake (Version > 3.5)
+- MSYS2 (for Windows only)
 
 For test roms files, go to the folder(.\Code\gameboyEmulator\roms).
 
