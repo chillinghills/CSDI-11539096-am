@@ -1,5 +1,6 @@
-* Repository for additional materials only.
+# Game Boy Emulator — MSc Dissertation Additional Materials
 
+This is the repository for additional materials only.
 
 Project Environment:
 
